@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-int strlen(char *str) //custom made function for calculating the length of a string
+int strlen(char *str) //function for calculating the length of a string
 {
   int c=0;
   while(*str!='\0')
