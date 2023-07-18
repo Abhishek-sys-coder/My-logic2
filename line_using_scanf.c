@@ -27,7 +27,7 @@ int main()
   scanf("%i", &line_length);
   
   char line[line_length+2];
-  puts("Make sure the length of each of your words does not exceed 30 characters");
+  puts("Maximum word length : 30");
   char word[31];
   
   int index;
