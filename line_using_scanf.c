@@ -42,7 +42,7 @@ int main()
   
   line[strlen(line)-1]='\0';
   
-  printf("Length of the line formed : %lu\n", strlen(line));
+  printf("Formed line length : %lu\n", strlen(line));
   printf("%s\n",line);
   
   return 0;
